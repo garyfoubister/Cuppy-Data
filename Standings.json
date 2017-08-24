@@ -12,24 +12,24 @@
     },  
     {
         "Team": "Seattle",
-        "Played": "3",
+        "Played": "4",
         "Won": "1",
         "Lost": "1",
-        "Drawn": "1",
-        "GoalsFor": "4",
-        "GoalsAgainst": "4",
+        "Drawn": "2",
+        "GoalsFor": "5",
+        "GoalsAgainst": "5",
         "GoalDifference": "0",
-        "Points": "4"
+        "Points": "5"
     },
     {
         "Team": "Vancouver",
-        "Played": "3",
+        "Played": "4",
         "Won": "1",
-        "Lost": "3",
-        "Drawn": "0",
-        "GoalsFor": "4",
-        "GoalsAgainst": "5",
+        "Lost": "2",
+        "Drawn": "1",
+        "GoalsFor": "5",
+        "GoalsAgainst": "6",
         "GoalDifference": "-1",
-        "Points": "3"
+        "Points": "4"
     }
 ]
