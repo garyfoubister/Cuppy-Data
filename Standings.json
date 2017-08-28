@@ -1,25 +1,25 @@
 [
     {
         "Team": "Portland",
-        "Played": "4",
+        "Played": "5",
         "Won": "2",
         "Lost": "1",
-        "Drawn": "1",
-        "GoalsFor": "6",
-        "GoalsAgainst": "5",
+        "Drawn": "2",
+        "GoalsFor": "7",
+        "GoalsAgainst": "6",
         "GoalDifference": "1",
-        "Points": "7"
+        "Points": "8"
     },  
     {
         "Team": "Seattle",
-        "Played": "4",
+        "Played": "5",
         "Won": "1",
         "Lost": "1",
-        "Drawn": "2",
-        "GoalsFor": "5",
-        "GoalsAgainst": "5",
+        "Drawn": "3",
+        "GoalsFor": "6",
+        "GoalsAgainst": "6",
         "GoalDifference": "0",
-        "Points": "5"
+        "Points": "6"
     },
     {
         "Team": "Vancouver",
